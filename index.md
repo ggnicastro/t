@@ -1,11 +1,11 @@
 | pdbs                                                                                                                                                                                                  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/1.molx&snapshot-url-type=molx) [download](./t/m/1.molx)                              |
-| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/2.molx&snapshot-url-type=molx) [download](./t/m/2.molx)                              |
-| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/3.molx&snapshot-url-type=molx) [download](./t/m/3.molx)                              |
-| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/4.molx&snapshot-url-type=molx) [download](./t/m/4.molx)                              |
-| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/5.molx&snapshot-url-type=molx) [download](./t/m/5.molx)                              |
-| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/6.molx&snapshot-url-type=molx) [download](./t/m/6.molx)                              |
+| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/1.molx&snapshot-url-type=molx) [download](./t/m/1.html)                              |
+| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/2.molx&snapshot-url-type=molx) [download](./t/m/2.html)                              |
+| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/3.molx&snapshot-url-type=molx) [download](./t/m/3.html)                              |
+| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/4.molx&snapshot-url-type=molx) [download](./t/m/4.html)                              |
+| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/5.molx&snapshot-url-type=molx) [download](./t/m/5.html)                              |
+| [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/6.molx&snapshot-url-type=molx) [download](./t/m/6.html)                              |
 | [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/7.molx&snapshot-url-type=molx) [download](./t/m/7.molx)                              |
 | [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/8.molx&snapshot-url-type=molx) [download](./t/m/8.molx)                              |
 | [view](https://molstar.org/viewer/?snapshot-url=https://ggnicastro.github.io/t/m/9.molx&snapshot-url-type=molx) [download](./t/m/9.molx)                              |
